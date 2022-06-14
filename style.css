@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+	background: linear-gradient(darksalmon,darkslateblue,seagreen);
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+h1{
+	color: bisque;
+	font-size: xx-large;
+	font-family: monospace;
+	word-spacing: 10px;
+	letter-spacing: 5px;
+}
+button{
+	font-size: xx-large;
+	font-weight: 900;
+	font-family: monospace;
+}
